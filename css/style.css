@@ -18,3 +18,12 @@ h5,
 h6 {
     font-family: 'Roboto', sans-serif;
 }
+
+ul,
+ol {
+    list-style-type: none;
+}
+
+a {
+    text-decoration: none;
+}
